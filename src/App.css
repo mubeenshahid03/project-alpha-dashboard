@@ -1,0 +1,16 @@
+td{
+    padding-inline: 10px;
+    text-wrap: nowrap;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0E2510;
+    font-weight: 400;
+}
+.custom-modal .ant-modal-content {
+    padding: 0px; /* Remove default padding */
+  
+  }
+
+  .active-tab-text {
+    color: red;
+  }
